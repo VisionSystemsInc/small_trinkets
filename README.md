@@ -1,2 +1,2 @@
-# scotts_trinkets
+# small_trinkets
 Random files for easy reliable download
